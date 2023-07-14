@@ -1,5 +1,5 @@
 # Hola
-Me llamo Umbre, no hago casi nada relacionado con programación (por ahora)
+Me llamo Umbre, hice este README para probar unas cosas con Markdown, quizás más adelante lo actualice, o quién sabe.
 
 # Mi perfil de Discord (y cómo contactarme)
 ![Acá debería estar mi perfil de Discord](https://lanyard.cnrad.dev/api/613918119257309193?bg=000000&idleMessage=No+estoy+haciendo+nada)
