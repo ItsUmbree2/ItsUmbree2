@@ -1,7 +1,7 @@
 # Hola
 Me llamo Umbre, no hago casi nada relacionado con programación (por ahora)
 
-# Prueba de estado 1
+# Mi perfil de Discord (y cómo contactarme)
 ![Acá debería estar mi perfil de Discord](https://lanyard.cnrad.dev/api/613918119257309193?bg=000000&idleMessage=No+estoy+haciendo+nada)
 
 <!---
